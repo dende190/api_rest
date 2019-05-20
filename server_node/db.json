@@ -1,0 +1,18 @@
+{
+	"people": [
+		{
+			"id": 1,
+			"firt_name": "Juan Pablo",
+			"last_name": "Arnedo Ramon",
+			"position": "Find Work",
+			"age": "21"
+		},
+		{
+			"id": 2,
+			"firt_name": "Karen Valentina",
+			"last_name": "Sanchez Araque",
+			"position": "Psicology student",
+			"age": "19"
+		}
+	]
+}
